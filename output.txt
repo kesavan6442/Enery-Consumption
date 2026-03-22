@@ -1,5 +1,5 @@
 ========================================================
-   ENERGY CONSUMPTION PREDICTION - PROJECT REPORT
+   ENERGY CONSUMPTION PREDICTION 
 ========================================================
 
 1. EXECUTIVE SUMMARY
